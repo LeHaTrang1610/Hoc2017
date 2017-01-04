@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.springmvctutorial.controller;
+
+/**
+ * @author USER
+ *
+ */
+public class UploadFile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

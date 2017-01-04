@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+D:\JavaAddFull\javathem2017\TuHoc\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1456745819.index
+683393575.index
+2665312357.index
+2069635684.index
+1649240343.index
+1709878435.index
+445452571.index

@@ -1,0 +1,4 @@
+127.0.0.1 - - [18/Dec/2016:11:50:57 +0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [18/Dec/2016:11:51:43 +0700] "GET /springmvctutorial/ HTTP/1.1" 200 418
+0:0:0:0:0:0:0:1 - - [18/Dec/2016:11:52:14 +0700] "GET /springmvctutorial/welcome HTTP/1.1" 404 1033
+0:0:0:0:0:0:0:1 - - [18/Dec/2016:11:54:02 +0700] "GET /springmvctutorial/welcome HTTP/1.1" 200 297
